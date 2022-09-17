@@ -1,6 +1,6 @@
 # Level-2-Capstone-Project-1
 
-Description
+Description:
 This program is created for a fictional business called "Poised" and aims to help the business store different projects in a text file which tracks the different projects via their various fields/aspects. Projects can be added, deleted, updated, or a use can simply view the projects (or certain projects).
 
 The program has 3 classes (Project, Person, PoisedManager) and six functions within the main method.
