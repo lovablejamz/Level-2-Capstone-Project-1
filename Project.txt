@@ -1,3 +1,0 @@
-55, Project James, L, 12 Dunkeld Road DBN, 142, 250000.00, 50000.00, 12122020, false, false, -1
-72, Project Daniel, S, 33 Sarnia Street DBN, 247, 425000.00, 40000.00, 01052021, true, false, -1
-62, Project Zama, L, 78 Charles Lane CPT, 23, 100000.00, 90000.00, 01012021, false, true, -1
